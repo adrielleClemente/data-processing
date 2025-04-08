@@ -7,3 +7,7 @@
 ### O Repositório
 
 Além dos arquivos com o processo para a análise dos dados, compõe também, as informações que foram trabalhadas durante a estruturação dos códigos.
+
+### 📂 Projetos
+
+- [Análise de Dados com Planilhas Excel](https://github.com/adrielleClemente/data-processing/tree/main/analise-dados-python/dados_excel)
